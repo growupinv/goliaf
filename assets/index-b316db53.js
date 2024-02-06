@@ -1,0 +1,1 @@
+import{_ as e}from"./Image.vue_vue_type_script_setup_true_lang-bf8606cd.js";import{c as t,o,e as c}from"./index-9bafff97.js";const p=t({__name:"index",setup(n){return(s,r)=>(o(),c(e,{src:"https://encrypted-vtbn0.gstatic.com/video?q=tbn:ANd9GcRAkg5xkeXQBlV-yjsbvOkPfGh5Uo677AAXeg"}))}});export{p as default};
