@@ -1,0 +1,1 @@
+import{_,g as s,m as t,w as c,h as e,b as n,F as o,l as r,a2 as l}from"./index-ff671c6d.js";const d={},i={class:"overlay"},u={class:"loader"};function p(m,v){return s(),t(l,{name:"fade"},{default:c(()=>[e("div",i,[e("div",u,[(s(),n(o,null,r(9,a=>e("div",{key:a,class:"cube"})),64))])])]),_:1})}const h=_(d,[["render",p],["__scopeId","data-v-ec9e5140"]]);export{h as _};

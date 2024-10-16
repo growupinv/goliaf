@@ -1,0 +1,1 @@
+.ep-vl__wrapper{position:relative}.ep-vl__wrapper:hover .ep-virtual-scrollbar,.ep-vl__wrapper.always-on .ep-virtual-scrollbar{opacity:1}.ep-vl__window{scrollbar-width:none}.ep-vl__window::-webkit-scrollbar{display:none}.ep-virtual-scrollbar{opacity:0;transition:opacity .34s ease-out}.ep-virtual-scrollbar.always-on{opacity:1}.ep-vg__wrapper{position:relative}
